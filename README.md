@@ -1,6 +1,6 @@
 # 中华矿工
 中华矿工 最强windows ETH/ETC/RVN/ERGO 挖矿软件，群控一键操作。
-下载链接：https://github.com/cnminer1999/cnminer/releases
+下载链接：https://github.com/cnminer1999/cnminer2022/releases
 
 ★★★★★★★ 欢迎使用中华矿工 本软件为国内最好的挖矿集成软件 耗电最低 功能最强 ★★★★★★★
 简易教程：
@@ -12,4 +12,11 @@
 
 使用者请自行遵守当地法律法规，本软件不提供于中国大陆。
 
-下载链接：https://github.com/cnminer1999/cnminer/releases
+- 支持A卡自动时序，支持Vega高算力，支持A卡睿频（rxboost）
+- 支持N卡1系自动时序，支持N卡核心电压设置
+- 支持N卡核心频率锁定
+- 带驱动签名功能，A卡计算模式功能
+- 监控显卡状态，预防死机蓝屏。
+- 群控一键操作，一键切换内核，一键切换币种，一键切换钱包
+
+旧版本下载链接：https://github.com/cnminer1999/cnminer/releases
