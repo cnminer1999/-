@@ -1,5 +1,5 @@
-# cnminer2022
-中华矿工 无抽水 ETHminer 群控一键操作  
+# 中华矿工
+中华矿工 最强windows ETH/ETC/RVN/ERGO 挖矿软件，群控一键操作。
 下载链接：https://github.com/cnminer1999/cnminer/releases
 
 ★★★★★★★ 欢迎使用中华矿工 本软件为国内最好的挖矿集成软件 耗电最低 功能最强 ★★★★★★★
@@ -11,6 +11,5 @@
 中华矿工不会以任何形式进行抽水也不会有任何收费，只为做区块链技术研究，禁止未经作者允许用于商业。
 
 使用者请自行遵守当地法律法规，本软件不提供于中国大陆。
-
 
 下载链接：https://github.com/cnminer1999/cnminer/releases
